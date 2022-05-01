@@ -6,3 +6,10 @@
   --grayish-blue: #B9B6D3;
   --white: #fff;
 }
+
+* {
+  padding: 0;
+  margin: 0;
+  outline: none;
+  box-sizing: border-box;
+}
